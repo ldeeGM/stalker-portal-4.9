@@ -59,4 +59,4 @@ truncate itv;
 [![Click to Watch](https://img.youtube.com/vi/kTqCdGys1OU/hq720.jpg)](https://www.youtube.com/watch?v=kTqCdGys1OU "Click to Watch")
 
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=4H8VAGMLW5RMA)  You can make one-time donations via PayPal.
+
