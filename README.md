@@ -15,7 +15,7 @@ Stalker auto install script
 ## Installation
 ```bash
 apt-get install git
-git clone https://github.com/madzharov/stalker-portal-4.9.git
+git clone https://github.com/ldeeGM/stalker-portal-4.9.git
 cd stalker-portal-4.9/
 ```
 
